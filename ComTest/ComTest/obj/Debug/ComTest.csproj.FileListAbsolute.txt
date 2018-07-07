@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\bin\Debug\ComTest.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\bin\Debug\ComTest.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\bin\Debug\ComTest.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\bin\Debug\AGauge.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\obj\Debug\ComTest.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\obj\Debug\ComTest.MainForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\obj\Debug\ComTest.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\obj\Debug\ComTest.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\obj\Debug\ComTest.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ComTest\ComTest\obj\Debug\ComTest.pdb
